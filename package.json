@@ -1,0 +1,22 @@
+{
+  "name": "-home-sites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anna190997/-home-sites.git"
+  },
+  "author": "Anna Verbilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anna190997/-home-sites/issues"
+  },
+  "homepage": "https://github.com/Anna190997/-home-sites#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
